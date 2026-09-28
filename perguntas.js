@@ -1,5 +1,9 @@
-     Criar cartao(
-      categoria´,
-
-     )
+Criarcartao(
+'Categoria',
+'Pergunta',
+'Resposta',
+)
+Criarcartao(
+   ''
+)    
    
